@@ -1,4 +1,4 @@
-# Day 1: What is Concurrency? What’s a Goroutine?
+# What is Concurrency? What’s a Goroutine?
 
 This was the first step in understanding concurrency in Go. I learned how goroutines work and how to use them with sync.WaitGroup.
 
