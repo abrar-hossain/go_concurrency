@@ -1,4 +1,4 @@
-# Day 5: WaitGroup with Manual Goroutine Control
+# WaitGroup with Manual Goroutine Control
 
 Today I learned how to use `sync.WaitGroup` to manage goroutines, both with and without loops. I also explored how to control the order in which goroutines run.
 
