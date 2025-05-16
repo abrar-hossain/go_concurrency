@@ -1,4 +1,4 @@
-# Day 4: Buffered vs Unbuffered Channels
+#  Buffered vs Unbuffered Channels
 
 Today I learned the difference between unbuffered and buffered channels in Go.
 
