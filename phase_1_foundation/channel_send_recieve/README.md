@@ -1,4 +1,4 @@
-# Day 3: Basic Channels — Send and Receive
+# Basic Channels — Send and Receive
 
 In this program, I learned how to send multiple values from a goroutine to the main function using a channel, and how to receive them using a `for range` loop.
 
